@@ -5,25 +5,25 @@ export default class Services extends Component {
   state = {
     services: [
       {
-        icon: <FaCocktail />,
+        icon: <FaCocktail style={{color: "blue", fontSize: 60}} />,
         title: "free smothies",
         info:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis!"
       },
       {
-        icon: <FaHiking />,
+        icon: <FaHiking style={{color: "green", fontSize: 60}} />,
         title: "Endless Hiking",
         info:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis!"
       },
       {
-        icon: <FaShuttleVan />,
+        icon: <FaShuttleVan style={{color: "#e38a84", fontSize: 60}} />,
         title: "Free shuttle",
         info:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis!"
       },
       {
-        icon: <FaCoffee />,
+        icon: <FaCoffee style={{color: "black", fontSize: 60}} />,
         title: "Strongest Coffee",
         info:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis!"
