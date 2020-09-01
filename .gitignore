@@ -7,14 +7,12 @@
 
 # testing
 /coverage
-
+.env.development
 # production
 /build
 
 # misc
 .DS_Store
-/Components/Contentful.js
-.env
 .env.local
 .env.development.local
 .env.test.local
