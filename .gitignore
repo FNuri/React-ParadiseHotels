@@ -13,7 +13,7 @@
 
 # misc
 .DS_Store
-.contenful.js
+/Components/Contentful.js
 .env
 .env.local
 .env.development.local
