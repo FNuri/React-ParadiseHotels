@@ -1,0 +1,30 @@
+
+
+.box_shw2 {
+  box-shadow: rgba(0, 0, 0, 0.12) 0 0 25px;
+}
+
+.f_12_14 {
+  font-size: 12px;
+  line-height: 14px !important;
+  margin-bottom: 400px;
+}
+
+.f_20_22 {
+  font-size: 20px;
+  line-height: 22px !important;
+}
+
+.bg_grey {
+  background-color: #9ef7ef !important;
+  width: 500px;
+  max-width: 100%;
+}
+
+.w_500 {
+  width: 500px;
+  max-width: 100%;
+  margin-left: 400px;
+  
+  
+}
